@@ -1,2 +1,3 @@
 This is first line in a.txt
 THIS IS Second Line in a.txt
+This is first line in NewFeature branch
